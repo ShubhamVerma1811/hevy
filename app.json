@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "name": "hevy",
+    "orientation": "portrait",
+    "plugins": ["expo-font"],
+    "slug": "hevy",
+    "userInterfaceStyle": "light",
+    "version": "1.0.0"
+  }
+}
